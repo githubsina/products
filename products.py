@@ -17,4 +17,13 @@ while True:
 	products.append([name,price]) #--最简
 print(products)
 
+
+'''
+github 上传指令 
+git add products.py
+git commit -m " add procducts.py
+git push origin master
+'''
+
+
 	
